@@ -1,6 +1,8 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact 
+2X, he/him/his
+
+I have a strong interest in computers and technology and have had an attachment to them from a very young age. That is something I think I can take and transform into something good I can do for the rest of my life. Also, I am interested in other languages and learning how they work and what words differ from English in other languages. I am good at human languages and enjoy learning them. I am currrently learning the programming language Python. I am always eager to learn and grow especially in the Computer Science area.
 
 
 ## 🌐 Socials:
